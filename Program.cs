@@ -39,7 +39,7 @@ namespace Test_Appman
             {
                 int b = 0;
                 b = b * 10 + ((int)B[j] - 48);
-                Console.Write(B[j]);
+                Console.Write(b);
                
             }
             Console.ReadLine();
